@@ -1,6 +1,7 @@
 {
     "name": "pablo/laravel-openapi",
     "description": "Generate OpenAPI Specification for Laravel Applications",
+    "version": "1.0.0",
     "keywords": [
         "laravel",
         "openapi",
